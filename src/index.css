@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('/src/assets/fonts/static/Figtree-Light.ttf') format('truetype');
+    font-weight: 200; /* Light weight */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Figtree';
+    src: url('/src/assets/fonts/static/Figtree-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular weight */
+    font-style: normal;
+  }
+  
+  /* Add other weights as needed */
+  
+  
+  
